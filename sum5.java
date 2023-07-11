@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class sumoffivenum{
+class sum5{
 	public static void main(String args[]){
 		int num1,num2,num3,num4,num5,result;
 		System.out.println("Enter any 5 integers ");
